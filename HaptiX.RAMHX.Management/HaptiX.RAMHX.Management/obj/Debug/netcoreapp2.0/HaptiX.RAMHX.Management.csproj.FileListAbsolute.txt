@@ -22,3 +22,15 @@ E:\Jaimik\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\o
 E:\Jaimik\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.AssemblyInfo.cs
 E:\Jaimik\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.dll
 E:\Jaimik\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.pdb
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\bin\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.deps.json
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\bin\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.runtimeconfig.json
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\bin\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.runtimeconfig.dev.json
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\bin\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.dll
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\bin\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.pdb
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.csprojAssemblyReference.cache
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.csproj.CoreCompileInputs.cache
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.AssemblyInfoInputs.cache
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.AssemblyInfo.cs
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.dll
+G:\HaptiX\New folder\RAMHXCORE\HaptiX.RAMHX.Management\HaptiX.RAMHX.Management\obj\Debug\netcoreapp2.0\HaptiX.RAMHX.Management.pdb
