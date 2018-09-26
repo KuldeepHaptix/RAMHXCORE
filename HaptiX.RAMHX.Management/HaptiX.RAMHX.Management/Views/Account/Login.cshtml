@@ -1,0 +1,52 @@
+﻿@using System.Collections.Generic
+@using System.Linq
+@using Microsoft.AspNetCore.Http
+@using Microsoft.AspNetCore.Http.Authentication
+@model LoginViewModel
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    ViewData["Title"] = "Log in";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+
+<section>
+    <form asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="login-form">
+        <hr />
+        <div asp-validation-summary="All" class="alert alert-danger display-hide"><button class="close" data-close="alert"></button></div>
+        <div class="row">
+            <div class="col-xs-6">
+                <input asp-for="Email" class="form-control form-control-solid placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="col-xs-6">
+                <input asp-for="Password" class="form-control form-control-solid placeholder-no-fix form-group" type="password" autocomplete="off" placeholder="Password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="rem-password">
+                    <label asp-for="RememberMe">
+                        <input asp-for="RememberMe" />
+                        @Html.DisplayNameFor(m => m.RememberMe)
+                    </label>
+                </div>
+            </div>
+            <div class="col-sm-8 text-right">
+                <div class="forgot-password">
+                    <a href="javascript:;" id="forget-password" class="forget-password">Forgot Password?</a>
+                </div>
+                <button class="btn green" type="submit">Log in</button>
+            </div>
+        </div>
+    </form>
+</section>
+
+
+
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+}
