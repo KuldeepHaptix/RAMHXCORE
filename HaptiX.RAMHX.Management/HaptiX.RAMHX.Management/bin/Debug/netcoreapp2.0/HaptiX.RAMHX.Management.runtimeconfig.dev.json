@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\HAPTIX\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\HAPTIX\\.nuget\\packages",
+      "C:\\Users\\HaptiX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HaptiX\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
