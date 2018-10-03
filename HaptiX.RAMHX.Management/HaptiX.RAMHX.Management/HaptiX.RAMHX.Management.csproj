@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <UserSecretsId>aspnet-HaptiX.RAMHX.Management-B0A681D1-874A-48F2-B4C4-3DA084820214</UserSecretsId>
     <DockerTargetOS>Windows</DockerTargetOS>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
   </PropertyGroup>
 
 
